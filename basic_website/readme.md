@@ -3,16 +3,16 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
-* **Klas:** `vid-1/vid-2`
-* **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
+* **Naam:** Qui-Lin Coeriel
+* **Klas:** Vid-1a
+* **Minor:** Visual Interface Design
+* **Favoriete dier:** puppies en dolfijnen
 * **Startniveau:** `blauw/rood/zwart`
 
 ## Concept
 
-`Beschrijf in het algemeen je concept van je project.`
-
+1ste idee:
+een zwart of grijs achtergrond. Op de zwarte vlak zie je patronen die op een manier bewegen (of verschillende blokken net zoals tetris vallen op de perfecte manier aan elkaar (zonder spacing)). Bij interactie met je muis: waar je muis heen gaat zie je verschillende kleuren met verschillende figuren die heel rommelig op elkaar zijn die een figuur proberen te vormen.
 ## Features
 
 `Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
@@ -22,7 +22,8 @@
 
 ## Voortang
 
-`Schrijf hier een klein logboekje met je voortgang per week.`
+Week 1: Introductie en Inspiratie:
+        Inspiratie:https://br.pinterest.com/rportilho/creative-coding/
 
 ### Week-1
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
