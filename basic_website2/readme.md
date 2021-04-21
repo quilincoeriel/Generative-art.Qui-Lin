@@ -3,10 +3,10 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
-* **Klas:** `vid-1/vid-2`
-* **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
+* **Naam:**Qui-Lin Coeriel
+* **Klas:** Vid-1 (A)
+* **Minor:** Visual Interface Design
+* **Favoriete dier:** Puppies/Dolfijnen
 * **Startniveau:** `blauw/rood/zwart`
 
 ## Concept
@@ -16,16 +16,20 @@
 ## Features
 
 `Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
-
+-Morph
 ## Onderzoek & inspiratie
-`Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
 
 ## Voortang
 
-`Schrijf hier een klein logboekje met je voortgang per week.`
+Week 1 - Inspiratie zoeken en wat technische dingen proberen.
 
 ### Week-1
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Als eerst begon ik een beetje rind te kijken wat je allemaal met ps5.js kan doen. Hierna begon ik wat simple dingen te proberen en kijken wat ik ervan kan maken. Wat beter kan gaan dat ik wat meer inpsiratie kan zoeken. Ik begon meteen met iets waarvan ik denk door meer inspiratie te doen kan ik meer een compleet beeld in mijn hoofd krijgen. 
+Idee/Concpeten:
+- Ik vind cartoons leuk dus ik dacht waarom niet een figuur proberen te maken van verschillende figuren.
+- Henna figuren proberen te maken via ps5
+- Ik vind het effect van morph prettig, dus ik dacht aan verschillende figuren die "morphen" en als interactie met de muis veranderen de kleuren.
+
 
 ### Week-2
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
