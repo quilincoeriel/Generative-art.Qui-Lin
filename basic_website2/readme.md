@@ -32,10 +32,13 @@ Idee/Concpeten:
 
 
 ### Week-2
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+In dit week was ik meer en het experimenteren en kijken wat ik allemaal met ps5.js kan doen en kijken of ik dit ene beetje onder de knie kan krijgen.
 
 ### Week-3
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Van mijn concept duidelijk opschrijven wat ik wil.
+1. Achtergrond zwart
+2. verschillende simple figuren komen te voorschijn en morphen into one figure.
+3. bij het bewegen van het muis verandert dit van kleur
 
 
 ## Bronnenlijst
