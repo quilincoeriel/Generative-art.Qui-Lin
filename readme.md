@@ -10,7 +10,7 @@
 * **Startniveau:** `blauw/rood/zwart`
 
 ## Concept
-Tijdens dee coronatijd hebben wij vele nieuwe skills ontdekt. Mijn concept is om een artwork te creeëren die laat zien hoe wij in deze tijden zijn aan het veranderen.  
+Tijdens de coronatijd hebben wij vele nieuwe skills ontdekt. Mijn concept is om een artwork te creeëren die laat zien hoe wij in deze tijden zijn aan het veranderen.  
 
 ## Features
 
