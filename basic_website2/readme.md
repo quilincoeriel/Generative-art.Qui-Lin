@@ -13,7 +13,7 @@
 
 `Beschrijf in het algemeen je concept van je project.`
 
-<------vbbvmgfmf----->
+<!------vbbvmgfmf----->
 
 ## Features
 
