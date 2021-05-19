@@ -10,11 +10,11 @@
 * **Startniveau:** `blauw/rood/zwart`
 
 ## Concept
-Tijdens de coronatijd hebben wij vele nieuwe skills ontdekt. Mijn concept is om een artwork te creeëren die laat zien hoe wij in deze tijden zijn aan het veranderen.  
+Corona heeft zijn nadelen maar ook zijn voordelen. Veel van ons moesten ons aanpassen aan de "nieuwe normaal" waarin wij verschillende andere manieren dingen gaan doen. Een van hun is dat wij veel meer tijd hebben dan normaal. Door het thuis werken ga je toch manieren zoeken om dit toch op een prettiger manier te doen. Een voorbeeld hiervan is dat ik mezelf gitaar was aan het leren spelen of dat ik het leuk vindt om te schilderen. Ik heb nieuwe skills ontdekt. Mijn concept is een artwork te creeëren die laat zien hoe wij in deze tijd transformeren.
 
 ## Features
 
-Er is een loop van een hexagon in het midden van het scherm die blijft draaien en morphen. Er zijn ook 4 cirkels die naar een driehoek morphen, hier moet je met je muis over het scherm. De achtergrond kleur van de canvas verandert elke keer bij het refreshen.
+Er is een loop van een hexagon in het midden van het scherm die blijft draaien en morphen. Er zijn ook 4 cirkels die naar een driehoek morphen, hier moet je met je muis over het scherm. De achtergrond kleur van de canvas verandert elke keer bij het refreshen. OP elk moment komen cirkels van verschillende kleuren op het achtergroond, dit stelt de "drama" van corona virus voor.
 
 ## Onderzoek & inspiratie
 In het begin keek ik naar pintrest naar verschillende artworks voor inspiratie. Bij het kijken hiervan had ik nog geen concept in mijn hoofd. Hierna begon ik te denknen aan verschillende dingen die ik leuk vindt en ik dacht meteen aan het effect van "Morph". Hier ben ik meteen gaan denken als er een link is tussen morphen en "The new intamacy". En kwam ik op het idee dat wij als persoon in deze tijden veel aan het veranderen zijn, veel nieuwe dingen leren en veel gaan uitproberen. 
