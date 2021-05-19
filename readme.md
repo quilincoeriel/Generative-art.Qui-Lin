@@ -51,6 +51,7 @@ In het begin keek ik naar pintrest naar verschillende artworks voor inspiratie. 
 - Opnieuw begonnen stap voor stap om te kijken wat was fout. (Waarschijnlijk de codes niet goed gecombineerd)
 - 2 verschillende tutorials gevolgt hoe te morphen, uiteindelijk wel gelukt. 
 - Tutorials gevolgt/ code voorbeelden gezocht hoe een vorm in een loop beweegt. 
+- Achtergrond kleur verandert random.
 - Andere voorbeeld codes gekeken hoe ik verschillende inputs erin kan krijgen (ging niet zoals ik wil), met behulp van Danny de code kunnen verbeteren.
 
 ## Bronnenlijst
